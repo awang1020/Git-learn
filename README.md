@@ -18,3 +18,10 @@ adding more information here
 | Firstname | Lastname |
 | --------- | -------- |
 | Antoine | Wang |
+
+```mermaid
+graph TD;
+A-->B;
+A-->C;
+B-->D;
+C-->D
